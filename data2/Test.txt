@@ -1,0 +1,5 @@
+staffNo,fullName,department,role,emailAdd,salary
+12345,Daryl Ng,SS,Lecturer,darrylng.nus.edu.sg,50000,
+12339,Alex Tan,SS,Lecturer,alextan.nus.edu.sg,70000,
+15796,Zekrom Lee,SS,Lecturer,zeklee.nus.edu.sg,85000,
+59761,Don Ooi,SS,Lecturer,donooi.nus.edu.sg,35000,

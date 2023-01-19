@@ -37,9 +37,6 @@ public class CollectionSort {
         employees.add(emp4);
 
         System.out.println("Unsorted employees: "+ employees);
-
-
-
     }
 
 

@@ -7,13 +7,18 @@ public class main {
     System.out.println();
     CollectionSort.example2();
 
-    System.out.println();
+    System.out.println("Array sorting below.");
     ArraySort.example();
 
+   //  System.out.println("ConcurrentHashMap below.");
+   //  ConcurrentHashMapExam.example();
 
+    System.out.println("\nLinkedList below.");
+    LinkedListExam ll = new LinkedListExam();
+    ll.example();
 
-
-
+    System.out.println("\nStack operation below.");
+    stackExam.example();
 
 
    } 
